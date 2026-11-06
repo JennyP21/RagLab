@@ -1,9 +1,14 @@
 <div align="center">
-RagLab
+**RagLab**
+<div>
 A full-stack, document-grounded AI workspace built with Retrieval-Augmented Generation (RAG)
+</div>
+<div>
 Upload documents · Organize knowledge by project · Search semantically · Ask questions with relevant context
-
+</div>
+    
 Frontend Repository · Backend Repository
+
 </div>Overview
 RagLab is a full-stack Retrieval-Augmented Generation (RAG) application designed to turn user-provided documents into searchable, AI-ready knowledge. It separates a responsive web interface from a Python API and an asynchronous document-processing pipeline, allowing document ingestion and interactive queries to evolve independently.
 
